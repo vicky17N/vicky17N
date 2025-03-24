@@ -37,8 +37,4 @@ Built a portfolio website to showcase my projects (LinkedIn Profile)
 
 📫 Connect with Me
 
-🔗 LinkedIn: Vicky's LinkedIn
-
-💻 GitHub: Your GitHub Profile
-
 📧 Email: vicky6369ece@gmail.com
