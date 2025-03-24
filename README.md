@@ -37,7 +37,7 @@ Built a portfolio website to showcase my projects (LinkedIn Profile)
 
 📫 Connect with Me
 
-🔗 LinkedIn: Your LinkedIn Profile
+🔗 LinkedIn: Vicky's LinkedIn
 
 💻 GitHub: Your GitHub Profile
 
